@@ -19,6 +19,9 @@ The SecondViewController class handles the color adjustment interface, allowing 
 - Customize and enhance the application as needed.
 - Dive into the ColorPalette app to experiment with colors and unleash your creativity. With intuitive controls and dynamic updates, ColorPalette makes exploring RGB values and visualizing color changes effortless and enjoyable.
 
+## Demo
+![Demo](demo.gif)
+
 ## Technologies Used:
 - **Swift**: The primary programming language for iOS app development.
 - **UIKit**: A framework for building user interfaces in iOS apps.
